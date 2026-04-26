@@ -405,7 +405,6 @@ a {
 }
 
 #subMenu {
-  position: sticky;
   top: 72px; 
   z-index: 9;
   background-color: white;
