@@ -30,10 +30,10 @@ a {
 .site-header {
   position: sticky;
   top: 0;
-  width: 100%;
-  z-index: 1000;
+  z-index: 10;
   background: rgba(255, 250, 243, 0.95);
   backdrop-filter: blur(10px);
+  border-bottom: 1px solid #eee0c8;
 }
 
 .header-inner {
@@ -405,10 +405,10 @@ a {
 }
 
 #subMenu {
-  top: 72px; 
+  position: sticky;
+  top: 60px;
   z-index: 9;
-  background-color: white;
-  width: 100%;
+  background: #fffaf3;
 }
 
 
