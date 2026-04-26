@@ -413,9 +413,7 @@ a {
 
 
 @media (max-width: 600px) {
-  body {
-    background: red;
-
+ 
   .featured {
     padding: 48px 0;
   }
