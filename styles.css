@@ -410,16 +410,7 @@ a {
   z-index: 9;
   background: #fffaf3;
 }
-#aboutUs {
-  max-width: 700px;
-  margin: 40px auto;
-  padding: 0 20px;
-  font-size: 1.1rem;
-  line-height: 1.7;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #444;
-}
+
 
 
 @media (max-width: 600px) {
