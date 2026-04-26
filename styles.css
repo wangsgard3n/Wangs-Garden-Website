@@ -331,6 +331,12 @@ a {
   color: #a5957a;
   font-size: 0.8rem;
 }
+.about-image {
+  display: block;
+  margin: 20px auto;
+  width: 300px;   /* adjust size */
+  height: auto;
+}
 
 @media (max-width: 900px) {
   .biggen-inner,
